@@ -1,0 +1,23 @@
+These are some fo the Safe URLs used to train the model. 
+
+youtube.com
+google.com
+amazon.com
+github.com
+microsoft.com
+chatgpt.com
+instagram.com
+whatsapp.com
+facebook.com
+netflix.com
+tubitv.com
+meta.ai
+reddit.com
+tryhackme.com
+outlook.live.com
+udemy.com
+hackthebox.com
+x.com
+https://tiktok.com/
+https://duckduckgo.com/
+https://weather.com/
