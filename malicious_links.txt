@@ -1,3 +1,5 @@
+These are some of the malicious URLs I used to train and test the model. I will be updating this dataset to keep the model training up-to-date and ensure a broader understanding of malicious factors in URLs.
+
 hottraveljobs.com/forum/docs/info.php
 news.grouptumbler.com/news/feed.php
 info.leveldelta.com/php/text.php
